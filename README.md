@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venda93
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NextJS
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/nicol%C3%B2-venditti/)
 
 <!---
